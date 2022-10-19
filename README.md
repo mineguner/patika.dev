@@ -1,5 +1,5 @@
-# patika.dev
-www.patika.dev üzerinden takip ettiğim patika kapsamındaki projeler
+# www.patika.dev
+
 # patika.dev insertion sort projesi 
 ## [22,27,16,2,18,6] -> Insertion Sort
  1. [2,27,16,22,18,6]
